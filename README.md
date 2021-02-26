@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Thaís!</h1>
+<h1 align="center">Hi, I'm Thaís!</h1> 👋
 
 <p align="center" ><img src="https://media.giphy.com/media/TRUJ0BJOxOmru/giphy.gif"/></p>
 
