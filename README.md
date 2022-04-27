@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:thaisam2000@gmail.com)
 
 ### About me
-I study Sciences and Technology with Emphasis on Computing at UFRN.
+I study Computing Engineering at UFRN.
 
 
 
