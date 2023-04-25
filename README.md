@@ -1,23 +1,24 @@
-## Hi, I'm Thaís
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/thaisaraujo2000)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thais-de-araujo-de-medeiros/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thaisam2000@gmail.com)
-### About me
-I study Computing Engineering at UFRN and I'm interesting in Data Science & Artificial Intelligence, Internet of Things and Web Development.
-
-<p align="center" ><img src="https://media.giphy.com/media/TRUJ0BJOxOmru/giphy.gif"/></p>
-
+## 👋 Hello, I'm Thaís Medeiros
+![GitHub followers](https://img.shields.io/github/followers/thaisaraujo2000?label=Follow&style=social)
 ---
+👩🏻‍💻 Computer Engineering student at UFRN  
+📊 Interested in Data Science & AI, IoT, and Web Development  
+🚗 Currently a researcher on the Conect2ai project
 
-### Languages and Tools:
+### 🛠️Languages & Tools
+--- 
 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white) ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/-Seaborn-3C84B1?style=flat-square&logo=seaborn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) ![Wandb](https://img.shields.io/badge/-Wandb-FB8C00?style=flat-square&logo=wandb&logoColor=white) 
 
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a> <a href="https://selenium.dev" target="_blank"><img src="https://selenium.dev/images/selenium_logo_square_green.png" width="40" alt="selenium"/></a>  <a href="https://www.python.org/" target="_blank"> <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" alt="python" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas_secondary.svg" alt="pandas" width="50"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit learn" height="40"/> </a> <a href="https://pt-br.reactjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" height="40"/> </a> <a href="https://wandb.ai/" target="_blank"> <img src="https://user-images.githubusercontent.com/59636993/145873266-c662b9ee-205c-4145-ae86-11199b5dd584.png" alt="wandb" height="40"/> </a>
-</p>
+### 📫Contact
+--- 
 
----
-<div style="display = flex;">
-  <img style="height: 170px" src="https://github-readme-stats.vercel.app/api?username=thaisaraujo2000&show_icons=true&theme=buefy" alt="thaisaraujo2000"/>
-  <img style="height: 170px" src="https://github-readme-stats.vercel.app/api/top-langs?username=thaisaraujo2000&show_icons=true&locale=en&layout=compact&theme=buefy" alt="thaisaraujo2000"/>
- </div>
+[![LinkedIn Badge](https://img.shields.io/badge/-Tha%C3%ADs%20Medeiros-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thais-de-araujo-de-medeiros)](https://www.linkedin.com/in/thais-de-araujo-de-medeiros)
+[![Email Badge](https://img.shields.io/badge/-thais.araujo.707%40ufrn.edu.br-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:thais.araujo.707@ufrn.edu.br)](mailto:thais.araujo.707@ufrn.edu.br)
+
+### 📈Stats
+--- 
+
+![Thaís Medeiros's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaisma&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaisma&layout=compact&theme=radical)
