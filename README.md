@@ -1,5 +1,5 @@
 ## 👋 Hello, I'm Thaís Medeiros
-![GitHub followers](https://img.shields.io/github/followers/thaisaraujo2000?label=Follow&style=social) [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thais-de-araujo-de-medeiros)](https://www.linkedin.com/in/thais-de-araujo-de-medeiros) [![Email Badge](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:thais.araujo.707@ufrn.edu.br)](mailto:thais.araujo.707@ufrn.edu.br)
+![GitHub followers](https://img.shields.io/github/followers/thaisaraujom?label=Follow&style=social) [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thais-de-araujo-de-medeiros)](https://www.linkedin.com/in/thais-de-araujo-de-medeiros) [![Email Badge](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:thais.araujo.707@ufrn.edu.br)](mailto:thais.araujo.707@ufrn.edu.br)
 
 👩🏻‍💻 Computer Engineering student at UFRN  
 📊 Interested in Data Science & AI, IoT, and Web Development  
